@@ -1,0 +1,5 @@
+##This is a simple python program that asks the user for input and displays it on the screen
+
+
+name = input("What is your name?\n")
+print("Hey "+ name + " welcome to our python course!")
